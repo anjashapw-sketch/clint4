@@ -331,7 +331,7 @@ VERSION = "42.0"
 #                              CONFIG
 # ══════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8957375254:AAHL7jr6xn77IhTREaHFzAQbWzHdn3yMxuw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9252621431:AAGanTiTW9NU8feVKZTIzYGz46Zch-uFTw8")
 ADMIN_IDS = [
     int(x) for x in os.environ.get("ADMIN_IDS", "1770654393").replace(" ", "").split(",")
     if x.strip().isdigit()
