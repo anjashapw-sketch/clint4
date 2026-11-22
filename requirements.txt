@@ -1,0 +1,9 @@
+python-telegram-bot
+pymongo[srv]
+python-dotenv
+apscheduler
+Pillow
+requests
+aiohttp
+httpx
+pytz
